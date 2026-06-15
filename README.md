@@ -21,8 +21,6 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 <img width="1367" height="762" alt="Screenshot 2026-06-05 184623" src="https://github.com/user-attachments/assets/7d6f5615-ffe7-40a7-b1dd-aafcaef18bdb" />
-
-
 ---
 
 ## 📈 Key Metrics
